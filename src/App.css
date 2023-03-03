@@ -25,6 +25,15 @@
   all: unset;
 }
 
+.sort {
+  margin-left: 20px;
+  margin-right: 10px;
+}
+
+.select {
+  border: 3px solid#0e85a3;
+}
+
 .list {
   margin: 2rem;
   margin-left: auto;
@@ -36,6 +45,10 @@
 
 .name {
   text-decoration: none;
+}
+
+p {
+  word-break: break-all;
 }
 
 .card {
